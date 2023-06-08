@@ -3,6 +3,7 @@ My solutions for some challenges on codingame.com
 - The first challenge: Implement the closestToZero function to return the temperature closer to zero which belongs to the list ts.
 If ts is empty, return 0 (zero).
 If two numbers are as close to zero, consider the positive number as the closest to zero (eg. if ts contains -5 and 5, return 5).
+- The third challenge: Impement a function that should return the factorial of a number n.
 - The fourth challenge: Implement  find_largest(numbers) that should return the largest number from  numbers.
  The array  numbers always contains at least one number.
 - The fifth challenge: You work in an automated factory and your objective is to write the function that will dispatch the 
