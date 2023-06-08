@@ -1,7 +1,5 @@
-#fonction to xount the factorial of a number
-#check if the number is zero so the factioral of it is one
 def factorial(n):
-    if n==0:
+    if n==0: #check if the number is zero so the factioral of it is one
         return 1
     else:
         return (n * factorial(n-1))
